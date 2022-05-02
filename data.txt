@@ -1,0 +1,3 @@
+TWITTER_EMAIL = "Your Email "
+TWITTER_PASSWORD = "Your password"
+TWITTER_USER_NAME = "Your username"
